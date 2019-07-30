@@ -1,0 +1,4 @@
+com\petplanet\wechat\mp\config\SpringConfig.class
+com\petplanet\wechat\mp\config\WebConfig.class
+com\petplanet\wechat\mp\config\SpringMvcConfig.class
+com\petplanet\wechat\mp\config\DataSourceConfig.class
